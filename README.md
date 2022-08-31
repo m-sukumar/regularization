@@ -1,6 +1,6 @@
-# Project Name
+# Advanced Regression
 
-Assigmnet on Advances Regression using regularization techniques
+Assignment on Advances Regression using regularization techniques
 
 
 ## General Information
